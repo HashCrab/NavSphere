@@ -1096,7 +1096,16 @@
           "icon": "FileText",
           "description": "文档工具",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1760802246047_6b9n0p0u1",
+              "title": "Docsmall",
+              "href": "https://docsmall.com/",
+              "description": "访问 docsmall.com",
+              "icon": "/assets/favicon_1760802233034.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
