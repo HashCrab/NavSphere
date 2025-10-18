@@ -1104,6 +1104,14 @@
               "description": "访问 docsmall.com",
               "icon": "/assets/favicon_1760802233034.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760802271956_wl8b86qwl",
+              "title": "PDF24 Tools: 免费且易于使用的在线PDF工具",
+              "href": "https://tools.pdf24.org/zh/",
+              "description": "合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。",
+              "icon": "/assets/favicon_1760802264269.png",
+              "enabled": true
             }
           ]
         }
