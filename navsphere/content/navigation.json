@@ -1089,6 +1089,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "c808d93e-f281-49d8-9492-ecad97c735b5",
+          "title": "文档工具",
+          "icon": "FileText",
+          "description": "文档工具",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
