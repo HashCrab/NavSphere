@@ -1137,6 +1137,14 @@
               "description": "",
               "icon": "/assets/favicon_1763282019828.png",
               "enabled": true
+            },
+            {
+              "id": "1763282028399",
+              "title": "夸克网盘",
+              "href": "https://pan.quark.cn/",
+              "description": "访问 pan.quark.cn",
+              "icon": "/assets/favicon_1763282046711.png",
+              "enabled": true
             }
           ]
         }
