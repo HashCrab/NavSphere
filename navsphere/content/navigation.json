@@ -1122,6 +1122,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "bce36612-22ce-4110-b7a0-2cb6bdc582e3",
+          "title": "网盘工具",
+          "icon": "Cloud",
+          "description": "常用网盘",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
