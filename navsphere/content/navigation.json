@@ -1129,7 +1129,16 @@
           "icon": "Cloud",
           "description": "常用网盘",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1763282007541",
+              "title": "百度网盘-免费云盘丨文件共享软件丨超大容量丨存储安全",
+              "href": "https://pan.baidu.com/",
+              "description": "",
+              "icon": "/assets/favicon_1763282019828.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
