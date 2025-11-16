@@ -1340,15 +1340,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1763281925857",
-      "title": "网盘工具",
-      "icon": "Cloud",
-      "description": "常用网盘工具",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
